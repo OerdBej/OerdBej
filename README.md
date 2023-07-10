@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oerd Bej
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oerd Bej
 ================================================================================================================================
 
 Junior FullStack Developer
 --------------------------
 
-Greetings, World! I am a web developer, perpetually evolving in my career. As a dedicated learner, I continuously update my expertise while solving problems through daily modular projects. Guided by an insatiable curiosity, I embark on a relentless quest to comprehend the profound depths of coding’s epistemology, aiming to captivate the true essence of every unique stack I explore.
+I am a web developer, perpetually evolving in my career. As a dedicated learner, I continuously update my expertise while solving problems through daily modular projects. Guided by an insatiable curiosity, I embark on a relentless quest to comprehend the profound depths of coding’s epistemology, aiming to captivate the true essence of every unique stack I explore.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
