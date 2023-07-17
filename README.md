@@ -4,11 +4,11 @@
 Junior FullStack Developer
 --------------------------
 
-I am a web developer, perpetually evolving in my career. As a dedicated learner, I continuously update my expertise while solving problems through daily modular projects. Guided by an insatiable curiosity, I embark on a relentless quest to comprehend the profound depths of coding’s epistemology, aiming to captivate the true essence of every unique stack I explore.
+As a junior web developer, I have a comprehensive understanding of front-end and back-end development using JavaScript, TypeScript, React, Tailwind CSS, Express.js, SQL, and MongoDB. I challenge myself daily through modular projects to improve my skills and take advantage of the continuous learning opportunities that the tech industry offers. With an extensive background in public relations, my focus is on improving customer satisfaction. In my free time, I enjoy running, exploring Berlin & reading books.
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
-* 🧠  I'm learning Tailwind
+* 🧠  Currently am learning Tailwind
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
 * ⚡  📖 Add me on GoodReads :)
 
