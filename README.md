@@ -1,12 +1,12 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oerd Bej
 ================================================================================================================================
 
-Junior FullStack Developer
+FullStack Developer
 --------------------------
 
-As a junior web developer, I have a comprehensive understanding of front-end and back-end development using JavaScript, TypeScript, React, Tailwind CSS, Express.js, SQL, and MongoDB. I challenge myself daily through modular projects to improve my skills and take advantage of the continuous learning opportunities that the tech industry offers. With an extensive background in public relations, my focus is on improving customer satisfaction. In my free time, I enjoy running, exploring Berlin & reading books.
+As a web developer, I have a comprehensive understanding of front-end and back-end development using JavaScript, TypeScript, React, Tailwind CSS, Express.js, SQL, and MongoDB. I challenge myself daily through modular projects to improve my skills and take advantage of the continuous learning opportunities that the tech industry offers. With an extensive background in public relations, my focus is on improving customer satisfaction. In my free time, I enjoy running, exploring Berlin & reading books.
 
-* 🌍  I'm based in Berlin
+* 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
 * 🧠  Currently am learning Tailwind
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
