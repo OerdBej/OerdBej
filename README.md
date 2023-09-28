@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oerd Bej
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
 Frontend Engineer
@@ -8,7 +8,7 @@ As a web developer, I have a comprehensive understanding of front-end and back-e
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
-* 🧠  Currently am learning Tailwind
+* 🧠  Currently am learning TypeScript
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
 * ⚡  📖 Add me on GoodReads :)
 
