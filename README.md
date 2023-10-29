@@ -8,7 +8,7 @@ As a web developer, I have a comprehensive understanding of front-end and back-e
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
-* 🧠  Currently am learning TypeScript
+* 🧠  Currently am learning Vue.js 💚
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
 * ⚡  📖 Add me on GoodReads :)
 
