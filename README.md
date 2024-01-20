@@ -4,7 +4,7 @@
 Frontend Engineer
 --------------------------
 
-As a web developer, I have a comprehensive understanding of front-end and back-end development using JavaScript, TypeScript, React, Tailwind CSS, Express.js, SQL, and MongoDB. I challenge myself daily through modular projects to improve my skills and take advantage of the continuous learning opportunities that the tech industry offers. With an extensive background in public relations, my focus is on improving customer satisfaction. In my free time, I enjoy running, exploring Berlin & reading books.
+Currently, I am involved as an instructor of JavaScript at [ReDi School of Digital Integration](https://www.redi-school.org/) in Berlin. As a web developer, I have a comprehensive understanding of front-end and back-end development using JavaScript, TypeScript, React, Tailwind CSS, Express.js, SQL, and MongoDB. I challenge myself daily through modular projects to improve my skills and take advantage of the continuous learning opportunities that the tech industry offers. With an extensive background in public relations, my focus is on improving customer satisfaction. In my free time, I enjoy running, exploring Berlin & reading books.
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
