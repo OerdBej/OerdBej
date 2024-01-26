@@ -7,7 +7,7 @@ In my current role as a JavaScript instructor at [ReDi School of Digital Integra
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
-* 🧠  Currently nastering TypeScript 🌱
+* 🧠  Currently mastering TypeScript 🌱
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
 * ⚡  📖 Add me on GoodReads :)
 
