@@ -3,7 +3,9 @@
 
 Frontend Engineer
 --------------------------
-In my current role as a JavaScript instructor at [ReDi School of Digital Integration](https://www.redi-school.org/) in Berlin and as a freelancer, my focus on frontend development is powered by a genuine love for coding. I specialize in JavaScript, TypeScript, React, Vue.js, and Tailwind CSS. Constantly striving for improvement, I immerse myself in challenging projects. With a public relations background, I prioritize customer satisfaction. In my free time, I indulge in the joy of coding, exploring Berlin, and reading books.
+I have a chronic curiosity that has propelled me from communication to software development. As a freelance engineer, educator at [ReDi School of Digital Integration](https://www.redi-school.org/), and developer relations consultant, I now divide my time between Tirana and Berlin. I enjoy delving into topics like functional programming and JavaScript. Ensuring customer satisfaction is my top priority. During my leisure time, I take pleasure in coding, exploring Berlin, and reading books.
+
+ 
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
