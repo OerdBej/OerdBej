@@ -3,7 +3,7 @@
 
 Frontend Engineer
 --------------------------
-I have a chronic curiosity that has propelled me from communication to software development. As a freelance engineer, educator at [ReDi School of Digital Integration](https://www.redi-school.org/), and developer relations consultant, I now divide my time between Tirana and Berlin. I enjoy delving into topics like functional programming and JavaScript. Ensuring customer satisfaction is my top priority. During my leisure time, I take pleasure in coding, exploring Berlin, and reading books.
+I have a chronic curiosity which led me from communication to software development. As a freelance engineer, educator at [ReDi School of Digital Integration](https://www.redi-school.org/), and developer relations consultant, I now divide my time between Tirana and Berlin. I enjoy delving into topics like functional programming and JavaScript. Ensuring customer satisfaction is my top priority. During my leisure time, I take pleasure in coding, exploring Berlin, and reading books.
 
  
 
