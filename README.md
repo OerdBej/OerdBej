@@ -9,7 +9,7 @@ I have a chronic curiosity which led me from communication to software developme
 
 * 🌍  Based in Berlin
 * ✉️  You can contact me at [oerdbej@gmail.com](mailto:oerdbej@gmail.com)
-* 🧠  Currently mastering Next.js and TypeScript 🟢
+* 🧠  Currently mastering Next.js and Tmux & Vim 🟢
 * 🤝  I'm open to collaborating on Interesting project or even to talk about the epistemology of coding.
 * ⚡  📖 Add me on GoodReads :)
 ## 🤝 Lets Connect
